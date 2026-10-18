@@ -1,6 +1,6 @@
 Contributing Guidelines:
 
-Thank you for your interest in contributing to our project! We welcome contributions from developers of all experience levels.
+Thank you for your interest in contributing to our project! We welcome contributions from developers of all experience levels!!.
 
 Before you start contributing, please take a moment to review these guidelines:
 
